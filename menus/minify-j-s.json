@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Minify js",
+        "command": "minify-j-s:minify"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "minify-j-s",
+          "submenu": [
+            {
+                "label": "Minify",
+                "command": "minify-j-s:minify"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
