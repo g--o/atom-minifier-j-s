@@ -1,15 +1,13 @@
 {
   "name": "minify-j-s",
   "main": "./lib/minify-j-s",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Minify Javascript package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/g--o/atom-minifier-j-s",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
