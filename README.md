@@ -16,7 +16,10 @@ Just go to settings (ctrl+,) and then to packages or install
 and then install the package and enjoy. (it should be enabled by default)
 
 ## Usage
-Ctrl + Alt + M
+Ctrl + Alt + Shift + M
+
+Escape to cancel.
+Enter to proceed.
 
 ## TODOs
 * fix max command size problem (when the args are too many to be contained)
