@@ -3,11 +3,17 @@
   "main": "./lib/minify-j-s",
   "version": "1.6.0",
   "description": "Minify Javascript package",
-  "keywords": [],
+  "keywords": ["javascript",
+                "minify",
+                "compress",
+                "uglify"],
   "repository": "https://github.com/g--o/atom-minifier-j-s",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+      "loophole": "1.1.0",
+      "uglify-js": "v2.7.5"
+  }
 }
