@@ -21,6 +21,8 @@ Ctrl + Alt + Shift + M
 Escape to cancel.
 Enter to proceed.
 
+*NOTE:* if your output js is in the directory, for now it will feed into itself. (this allows appending of old and new)
+
 ## License
 I want to make it clear that I'm using UglifyJS:
 https://github.com/mishoo/UglifyJS
