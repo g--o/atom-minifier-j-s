@@ -1,3 +1,2 @@
-## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+## 2.0.0 - First Major Release
+* moved to UglifyJS API. (now node module required)

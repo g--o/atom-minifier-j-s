@@ -7,7 +7,7 @@ A very comfortable GUI wrapper for UglifyJS for atom text editor.
 * Minify an entire directory
 * "plug and play" (nothing to config, no tmp files)
 
-# Install
+## Install
 Install via apm:
 > $ apm install minify-j-s
 
@@ -21,10 +21,10 @@ Ctrl + Alt + Shift + M
 Escape to cancel.
 Enter to proceed.
 
-## TODOs
-* fix max command size problem (when the args are too many to be contained)
-
 ## License
 I want to make it clear that I'm using UglifyJS:
 https://github.com/mishoo/UglifyJS
 So it's BSD License also applies to this.
+Additional to that the software itself MIT licensed, for more info check LICENSE.md
+
+Enjoy!
