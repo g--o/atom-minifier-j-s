@@ -2,6 +2,8 @@
 
 A very comfortable GUI wrapper for UglifyJS for atom text editor.
 
+![screenshot](screenshot.png)
+
 ## Features
 
 * Minify an entire directory
@@ -16,8 +18,9 @@ Just go to settings (ctrl+,) and then to packages or install
 and then install the package and enjoy. (it should be enabled by default)
 
 ## Usage
-Ctrl + Alt + Shift + M
+Press F4 and fill the fields.
 
+Focused on a field press either:
 Escape to cancel.
 Enter to proceed.
 

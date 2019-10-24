@@ -1,6 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "minify-j-s:toggle",
-    "ctrl-alt-shift-m": "minify-j-s:minify"
+    "f4": "minify-j-s:minify"
   }
 }
