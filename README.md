@@ -27,9 +27,7 @@ Enter to proceed.
 *NOTE:* if your output js is in the directory, for now it will feed into itself. (this allows appending of old and new)
 
 ## License
-I want to make it clear that I'm using UglifyJS:
-https://github.com/mishoo/UglifyJS
-So it's BSD License also applies to this.
+I want to make it clear that I'm using Terser, so it's license also applies to this.
 Additional to that the software itself MIT licensed, for more info check LICENSE.md
 
 Enjoy!
