@@ -1,6 +1,6 @@
 # minify-j-s package
 
-A very comfortable GUI wrapper for UglifyJS for atom text editor.
+A very comfortable GUI wrapper for Terser for atom text editor.
 
 ![screenshot](screenshot.png)
 
